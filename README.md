@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  This is me btw
+  <h3>This is me btw</h3>
+</div>
+
+<div align="center">
   <img src='cheems.jpg' style="height: 400px;"/>
 </div>
 

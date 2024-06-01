@@ -9,7 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mrtigno14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrtigno14&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtigno14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtigno14)](https://github.com/mrtigno14/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrtigno14&theme=radical&no-frame=false&no-bg=true&margin-w=4)

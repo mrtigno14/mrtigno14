@@ -2,6 +2,8 @@
   <h1>Hi, I'm Marc! 👋</h1>
 </div>
 
+### Random Dev Meme
+<img src='cheems.png' style="height: 400px;"/>
 
 ## Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nyuura23?si=lAG3PHnsMP-9KAS6)
@@ -17,8 +19,7 @@
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrtigno14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrtigno14&icon=0&color=3)](https://visitcount.itsvg.in)

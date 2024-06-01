@@ -2,7 +2,9 @@
   <h1>Hi, I'm Marc! 👋</h1>
 </div>
 
-<img src='cheems.jpg' style="height: 400px;"/>
+<div align="center">
+  <img src='cheems.jpg' style="height: 400px;"/>
+</div>
 
 ## Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nyuura23?si=lAG3PHnsMP-9KAS6)

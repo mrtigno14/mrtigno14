@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>This is me btw</h3>
+
 </div>
 
 <div align="center">
